@@ -1,0 +1,15 @@
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConsoleApp13/bin/Debug/net9.0/ConsoleApp13
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConsoleApp13/bin/Debug/net9.0/ConsoleApp13.deps.json
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConsoleApp13/bin/Debug/net9.0/ConsoleApp13.runtimeconfig.json
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConsoleApp13/bin/Debug/net9.0/ConsoleApp13.dll
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConsoleApp13/bin/Debug/net9.0/ConsoleApp13.pdb
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConsoleApp13/obj/Debug/net9.0/ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConsoleApp13/obj/Debug/net9.0/ConsoleApp13.AssemblyInfoInputs.cache
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConsoleApp13/obj/Debug/net9.0/ConsoleApp13.AssemblyInfo.cs
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConsoleApp13/obj/Debug/net9.0/ConsoleApp13.csproj.CoreCompileInputs.cache
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConsoleApp13/obj/Debug/net9.0/ConsoleApp13.sourcelink.json
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConsoleApp13/obj/Debug/net9.0/ConsoleApp13.dll
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConsoleApp13/obj/Debug/net9.0/refint/ConsoleApp13.dll
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConsoleApp13/obj/Debug/net9.0/ConsoleApp13.pdb
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConsoleApp13/obj/Debug/net9.0/ConsoleApp13.genruntimeconfig.cache
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConsoleApp13/obj/Debug/net9.0/ref/ConsoleApp13.dll
