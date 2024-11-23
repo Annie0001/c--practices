@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ConditionalOperation_String_Format/1.0.0": {
+        "runtime": {
+          "ConditionalOperation_String_Format.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConditionalOperation_String_Format/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

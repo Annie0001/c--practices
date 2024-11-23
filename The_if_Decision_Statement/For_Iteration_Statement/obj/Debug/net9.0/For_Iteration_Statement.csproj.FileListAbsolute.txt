@@ -1,0 +1,15 @@
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/For_Iteration_Statement/bin/Debug/net9.0/For_Iteration_Statement
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/For_Iteration_Statement/bin/Debug/net9.0/For_Iteration_Statement.deps.json
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/For_Iteration_Statement/bin/Debug/net9.0/For_Iteration_Statement.runtimeconfig.json
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/For_Iteration_Statement/bin/Debug/net9.0/For_Iteration_Statement.dll
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/For_Iteration_Statement/bin/Debug/net9.0/For_Iteration_Statement.pdb
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/For_Iteration_Statement/obj/Debug/net9.0/For_Iteration_Statement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/For_Iteration_Statement/obj/Debug/net9.0/For_Iteration_Statement.AssemblyInfoInputs.cache
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/For_Iteration_Statement/obj/Debug/net9.0/For_Iteration_Statement.AssemblyInfo.cs
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/For_Iteration_Statement/obj/Debug/net9.0/For_Iteration_Statement.csproj.CoreCompileInputs.cache
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/For_Iteration_Statement/obj/Debug/net9.0/For_Iteration_Statement.sourcelink.json
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/For_Iteration_Statement/obj/Debug/net9.0/For_Iteration_Statement.dll
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/For_Iteration_Statement/obj/Debug/net9.0/refint/For_Iteration_Statement.dll
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/For_Iteration_Statement/obj/Debug/net9.0/For_Iteration_Statement.pdb
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/For_Iteration_Statement/obj/Debug/net9.0/For_Iteration_Statement.genruntimeconfig.cache
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/For_Iteration_Statement/obj/Debug/net9.0/ref/For_Iteration_Statement.dll

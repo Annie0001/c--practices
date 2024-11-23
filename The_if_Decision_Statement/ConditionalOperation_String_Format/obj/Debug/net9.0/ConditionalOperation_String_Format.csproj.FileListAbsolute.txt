@@ -1,0 +1,15 @@
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConditionalOperation_String_Format/bin/Debug/net9.0/ConditionalOperation_String_Format
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConditionalOperation_String_Format/bin/Debug/net9.0/ConditionalOperation_String_Format.deps.json
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConditionalOperation_String_Format/bin/Debug/net9.0/ConditionalOperation_String_Format.runtimeconfig.json
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConditionalOperation_String_Format/bin/Debug/net9.0/ConditionalOperation_String_Format.dll
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConditionalOperation_String_Format/bin/Debug/net9.0/ConditionalOperation_String_Format.pdb
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConditionalOperation_String_Format/obj/Debug/net9.0/ConditionalOperation_String_Format.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConditionalOperation_String_Format/obj/Debug/net9.0/ConditionalOperation_String_Format.AssemblyInfoInputs.cache
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConditionalOperation_String_Format/obj/Debug/net9.0/ConditionalOperation_String_Format.AssemblyInfo.cs
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConditionalOperation_String_Format/obj/Debug/net9.0/ConditionalOperation_String_Format.csproj.CoreCompileInputs.cache
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConditionalOperation_String_Format/obj/Debug/net9.0/ConditionalOperation_String_Format.sourcelink.json
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConditionalOperation_String_Format/obj/Debug/net9.0/ConditionalOperation_String_Format.dll
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConditionalOperation_String_Format/obj/Debug/net9.0/refint/ConditionalOperation_String_Format.dll
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConditionalOperation_String_Format/obj/Debug/net9.0/ConditionalOperation_String_Format.pdb
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConditionalOperation_String_Format/obj/Debug/net9.0/ConditionalOperation_String_Format.genruntimeconfig.cache
+/Users/annie/Repos/c-sharp-practices/The_if_Decision_Statement/ConditionalOperation_String_Format/obj/Debug/net9.0/ref/ConditionalOperation_String_Format.dll
