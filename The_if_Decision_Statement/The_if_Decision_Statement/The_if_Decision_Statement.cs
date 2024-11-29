@@ -12,7 +12,8 @@ namespace Variables
             Console.Write("Choose a door: 1,2,or 3:");
             string userValue = Console.ReadLine();
             string message = " ";
-            
+        
+        
             if (userValue == "1")
             {
                 message = "You won a new car!";
