@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper_Methods_Reversing_St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper_Methods_Reversing_String_Use_Return_Value", "Helper_Methods_Reversing_String_Use_Return_Value\Helper_Methods_Reversing_String_Use_Return_Value.csproj", "{BB3A1851-481F-4DC8-AC8F-29E3D8782877}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper_Methods_Reverse_function_and_Display_Function", "Helper_Methods_Reverse_function_and_Display_Function\Helper_Methods_Reverse_function_and_Display_Function.csproj", "{301D3DAA-5F4F-44D0-AD4C-F21C78804EBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{BB3A1851-481F-4DC8-AC8F-29E3D8782877}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB3A1851-481F-4DC8-AC8F-29E3D8782877}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB3A1851-481F-4DC8-AC8F-29E3D8782877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{301D3DAA-5F4F-44D0-AD4C-F21C78804EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301D3DAA-5F4F-44D0-AD4C-F21C78804EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301D3DAA-5F4F-44D0-AD4C-F21C78804EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301D3DAA-5F4F-44D0-AD4C-F21C78804EBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
