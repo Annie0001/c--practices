@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper_Methods_Reversing_St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper_Methods_Reverse_function_and_Display_Function", "Helper_Methods_Reverse_function_and_Display_Function\Helper_Methods_Reverse_function_and_Display_Function.csproj", "{301D3DAA-5F4F-44D0-AD4C-F21C78804EBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While_Loop_Console_Menu", "While_Loop_Console_Menu\While_Loop_Console_Menu.csproj", "{7830D045-A9EC-4679-9168-57AE2F413324}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{301D3DAA-5F4F-44D0-AD4C-F21C78804EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{301D3DAA-5F4F-44D0-AD4C-F21C78804EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{301D3DAA-5F4F-44D0-AD4C-F21C78804EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7830D045-A9EC-4679-9168-57AE2F413324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7830D045-A9EC-4679-9168-57AE2F413324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7830D045-A9EC-4679-9168-57AE2F413324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7830D045-A9EC-4679-9168-57AE2F413324}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
