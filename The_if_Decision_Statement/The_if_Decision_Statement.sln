@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper_Methods_Reverse_func
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While_Loop_Console_Menu", "While_Loop_Console_Menu\While_Loop_Console_Menu.csproj", "{7830D045-A9EC-4679-9168-57AE2F413324}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning_CSharp_Five_of_Ninteen", "Learning_CSharp_Five_of_Ninteen\Learning_CSharp_Five_of_Ninteen.csproj", "{A511CB46-CD22-4547-B088-577844F90D00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{7830D045-A9EC-4679-9168-57AE2F413324}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7830D045-A9EC-4679-9168-57AE2F413324}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7830D045-A9EC-4679-9168-57AE2F413324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A511CB46-CD22-4547-B088-577844F90D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A511CB46-CD22-4547-B088-577844F90D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A511CB46-CD22-4547-B088-577844F90D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A511CB46-CD22-4547-B088-577844F90D00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
