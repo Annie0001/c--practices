@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning_CSharp_Six_of_Nint
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning_CSharp_Seven_of_Ninteen", "Learning_CSharp_Seven_of_Ninteen\Learning_CSharp_Seven_of_Ninteen.csproj", "{73229CEB-4629-4770-B253-44E82981560C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning_CSharp_Nine_of_Ninteen", "Learning_CSharp_Nine_of_Ninteen\Learning_CSharp_Nine_of_Ninteen.csproj", "{56B75A6A-40E3-42DC-BB67-35FC74E65542}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{73229CEB-4629-4770-B253-44E82981560C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73229CEB-4629-4770-B253-44E82981560C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73229CEB-4629-4770-B253-44E82981560C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B75A6A-40E3-42DC-BB67-35FC74E65542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B75A6A-40E3-42DC-BB67-35FC74E65542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B75A6A-40E3-42DC-BB67-35FC74E65542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B75A6A-40E3-42DC-BB67-35FC74E65542}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
