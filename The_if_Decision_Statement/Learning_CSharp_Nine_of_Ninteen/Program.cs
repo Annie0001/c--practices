@@ -105,3 +105,21 @@ for (int number=1; number< 20; number ++)
     }
 }
 Console.WriteLine($"Sum is: {sum}");
+
+Console.WriteLine("----------------------------------------");
+Console.WriteLine("----------------------------------------");
+
+int a3=5;
+int b3=3;
+int c3=4;
+
+if ((a3+b3+c3 > 10)&& (a==b))
+{
+    Console.WriteLine("The answer is greater than 10.");
+    Console.WriteLine("And the first number is equal to second number.");
+}
+else
+{
+    Console.WriteLine("The answer is not greater than 10.");
+    Console.WriteLine("And the first number is not equal to second number.");
+}
