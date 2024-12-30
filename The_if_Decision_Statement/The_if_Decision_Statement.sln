@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning_CSharp_Seven_of_Ni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning_CSharp_Nine_of_Ninteen", "Learning_CSharp_Nine_of_Ninteen\Learning_CSharp_Nine_of_Ninteen.csproj", "{56B75A6A-40E3-42DC-BB67-35FC74E65542}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning_CSharp_Eleven_of_Ninteen", "Learning_CSharp_Eleven_of_Ninteen\Learning_CSharp_Eleven_of_Ninteen.csproj", "{E571A901-6D2E-4D7E-90AB-DA28BB45CDC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{56B75A6A-40E3-42DC-BB67-35FC74E65542}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56B75A6A-40E3-42DC-BB67-35FC74E65542}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56B75A6A-40E3-42DC-BB67-35FC74E65542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E571A901-6D2E-4D7E-90AB-DA28BB45CDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E571A901-6D2E-4D7E-90AB-DA28BB45CDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E571A901-6D2E-4D7E-90AB-DA28BB45CDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E571A901-6D2E-4D7E-90AB-DA28BB45CDC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
