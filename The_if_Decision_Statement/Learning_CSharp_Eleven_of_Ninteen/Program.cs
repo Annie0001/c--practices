@@ -6,3 +6,16 @@ while (counter<10)
     Console.WriteLine(counter);
     counter++;
 }
+
+Console.WriteLine("-----------------------------");
+Console.WriteLine("                             ");
+
+// Nested For Loops for Matrix
+for (int row=1; row<11 ; row++)
+{
+    for (char column='a'; column< 'k'; column++)
+    {
+        Console.WriteLine($"The cells are ({row},{column})");
+    }
+}
+    
