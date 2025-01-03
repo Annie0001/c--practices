@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning_CSharp_Thirteen_of
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning_CSharp_Thirteen_For_Loop_Range_of_Ninteen", "Learning_CSharp_Thirteen_For_Loop_Range_of_Ninteen\Learning_CSharp_Thirteen_For_Loop_Range_of_Ninteen.csproj", "{F03F4668-143B-4253-8954-3CDA216F8374}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning_CSharp_Fifteen_Ninteen", "Learning_CSharp_Fifteen_Ninteen\Learning_CSharp_Fifteen_Ninteen.csproj", "{D28D4B80-F69B-4A65-BE33-98D6AC5B93D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{F03F4668-143B-4253-8954-3CDA216F8374}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F03F4668-143B-4253-8954-3CDA216F8374}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F03F4668-143B-4253-8954-3CDA216F8374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D28D4B80-F69B-4A65-BE33-98D6AC5B93D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28D4B80-F69B-4A65-BE33-98D6AC5B93D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28D4B80-F69B-4A65-BE33-98D6AC5B93D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28D4B80-F69B-4A65-BE33-98D6AC5B93D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
