@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning_CSharp_Seventeen_o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning_CSharp_Ninteen_of_Ninteen", "Learning_CSharp_Ninteen_of_Ninteen\Learning_CSharp_Ninteen_of_Ninteen.csproj", "{EE34A386-2381-495B-80CF-50FF2FB07640}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning_CSharp_Ninteen_of_Ninteen_OOP", "Learning_CSharp_Ninteen_of_Ninteen_OOP\Learning_CSharp_Ninteen_of_Ninteen_OOP.csproj", "{5974A4E6-EBD8-4C2B-A7D7-DD6AFC1EC4CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{EE34A386-2381-495B-80CF-50FF2FB07640}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE34A386-2381-495B-80CF-50FF2FB07640}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE34A386-2381-495B-80CF-50FF2FB07640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5974A4E6-EBD8-4C2B-A7D7-DD6AFC1EC4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5974A4E6-EBD8-4C2B-A7D7-DD6AFC1EC4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5974A4E6-EBD8-4C2B-A7D7-DD6AFC1EC4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5974A4E6-EBD8-4C2B-A7D7-DD6AFC1EC4CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
